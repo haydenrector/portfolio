@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: a little about me
+    url: aboutMe
 
 project_entries:
   - title: Coding
