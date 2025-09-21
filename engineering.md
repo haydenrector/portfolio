@@ -1,6 +1,6 @@
 ---
 layout: post
-title: engineering/robotics
+title: Engineering
 description: What I've Built
 ---
 ### The Crucible
