@@ -13,11 +13,11 @@ project_entries:
     highlight: 2016-Present
   - title: Engineering
     url: engineering
-    desc: things ive built for my robotics club, NASA projects and for fun! 
+    desc: dot
     highlight: 2016-Present
-  - title: Theater
-    url: theater
-    desc: My work in theater and filmmaking so far
+  - title: Engineering
+    url: engineering
+    desc: things ive built for my robotics club, NASA projects and for fun! 
     highlight: 2013-Present
   - title: 3D Design
     url: 3ddesign
