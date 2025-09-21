@@ -15,8 +15,8 @@ description: My coding projects, profiles, and resume
 - [LinkedIn](https://linkedin.com/in/zobro23)
 - [Fiverr](https://fiverr.com/zobro23)
 
-## Projects
-### [ZoAuth](https://github.com/Zo-Bro-23/zoauth)
+## Digital Logic Projects
+### [Digital Logic](https://github.com/Zo-Bro-23/zoauth)
 *Demo live [here](https://demo.zoauth.zohan.tech)!*
 
 - Zero effort OAuth - ZoAuth!
