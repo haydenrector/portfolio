@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a little about me!
+title: a little about me
 description: myself
 ---
 College student at College of the Canyons, Valencia, CA and an aspiring transfer student
