@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Theater
-description: My work in theater and filmmaking so far
+title: engineering/robotics
+description: What I've Built
 ---
 ### The Crucible
 <iframe width="974" height="548" src="https://www.youtube.com/embed/EYOf3Q8GYZ0" title="Crucible Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
