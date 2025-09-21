@@ -6,26 +6,26 @@ project_entries:
   - title: Coding
     url: coding
     desc: My coding projects, profiles, and resume
-    highlight: 2023-Present
+    highlight: 2022-Present
   - title: Writing
     url: writing
     desc: My creative writing samples
     highlight: 2016-Present
-  - title: Research
+  - title: Optics Research
     url: research
     desc: my research on optics 
-    highlight: 2025-2026
+    highlight: 2025-present
   - title: Engineering
     url: engineering
     desc: things ive built for my robotics club, NASA projects and for fun! 
-    highlight: 2013-Present
+    highlight: 2016-Present
   - title: 3D Design
     url: 3ddesign
     desc: designs ive made for my robotics club, engineering classes, NASA projects, and for fun!
     highlight: 2020-present
-  - title: Photo
-    url: https://zobro23.pic-time.com/
-    desc: Photography portfolio gallery
+  - title: Math Research
+    url: matresearch
+    desc: cool research ive done about math
     highlight: 2024-Present
     
 footer_entries:
