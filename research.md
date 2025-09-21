@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tinkering
-description: 3D Printing, Robotics, and Shop Work
+title: research
+description: Physics Optics 
 ---
 ## 3D Printing Projects
 - [Thingiverse](https://www.thingiverse.com/zobro23/designs)
