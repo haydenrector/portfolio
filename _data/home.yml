@@ -11,10 +11,10 @@ project_entries:
     url: writing
     desc: My creative writing samples
     highlight: 2016-Present
-  - title: Engineering
-    url: engineering
-    desc: dot
-    highlight: 2016-Present
+  - title: Research
+    url: research
+    desc: my research on optics 
+    highlight: 2025-2026
   - title: Engineering
     url: engineering
     desc: things ive built for my robotics club, NASA projects and for fun! 
