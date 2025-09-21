@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electrical Engineering
-description: Things I have designed and built for the NASA project High Altitude Student Platform (HASP)
+description: Things I have designed and built for the NASA project called High Altitude Student Platform (HASP)
 ---
 ## Experience 
 - Named the Electrical Engineering Lead for the HASP project (2025-2026)
