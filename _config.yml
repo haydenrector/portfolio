@@ -1,5 +1,5 @@
-title: My Portfolio
-author: Zohan Subhash
+title: welcome to my stemy portfolio!
+author: hayden rector
 url: https://web.zohan.tech/portfolio # root address of the site
 description: My various projects, interests, and hobbies, as well as a place to showcase my achievements.
 permalink: /:slug
@@ -26,7 +26,7 @@ theme_config:
   show_reading_time: false # show number of words and reading time in the blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: portfolio
 
 highlighter: rouge
 
