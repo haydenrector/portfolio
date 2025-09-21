@@ -6,23 +6,23 @@ project_entries:
   - title: Coding
     url: coding
     desc: My coding projects, profiles, and resume
-    highlight: 2020-Present
+    highlight: 2023-Present
   - title: Writing
     url: writing
     desc: My creative writing samples
-    highlight: 2020-Present
-  - title: Tinkering
-    url: tinkering
-    desc: 3D Printing, Robotics, and Shop Work
+    highlight: 2016-Present
+  - title: Engineering
+    url: engineering
+    desc: things ive built for my robotics club, NASA projects and for fun! 
     highlight: 2016-Present
   - title: Theater
     url: theater
     desc: My work in theater and filmmaking so far
     highlight: 2013-Present
-  - title: Music
-    url: music
-    desc: Piano, Western Vocals, and other music-related projects
-    highlight: 2013-2022
+  - title: 3D Design
+    url: 3ddesign
+    desc: designs ive made for my robotics club, engineering classes, NASA projects, and for fun!
+    highlight: 2020-present
   - title: Photo
     url: https://zobro23.pic-time.com/
     desc: Photography portfolio gallery
