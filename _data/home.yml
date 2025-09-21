@@ -7,22 +7,22 @@ project_entries:
     url: coding
     desc: My coding projects, profiles, and resume
     highlight: 2022-Present
-  - title: Writing
-    url: writing
-    desc: My creative writing samples
-    highlight: 2016-Present
-  - title: Optics Research
-    url: research
-    desc: my research on optics 
-    highlight: 2025-present
-  - title: Engineering
-    url: engineering
-    desc: things ive built for my robotics club, NASA projects and for fun! 
-    highlight: 2016-Present
   - title: 3D Design
     url: 3ddesign
     desc: designs ive made for my robotics club, engineering classes, NASA projects, and for fun!
     highlight: 2020-present
+  - title: Electrical Engineering
+    url: electronics
+    desc: my electrical engineering from a NASA project
+    highlight: 2016-Present
+  - title: Mechanical Engineering
+    url: engineering
+    desc: things ive built for my robotics club and for fun! 
+    highlight: 2016-Present
+  - title: Physics Research
+    url: research
+    desc: my research on optics 
+    highlight: 2025-present
   - title: Math Research
     url: matresearch
     desc: cool research ive done about math
