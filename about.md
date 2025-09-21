@@ -1,18 +1,15 @@
 ---
 layout: post
-title: About Me
-description: myself :)
+title: a little about me!
+description: myself
 ---
-College student trying to get somewhere...
+College student at College of the Canyons, Valencia, CA and an aspiring transfer student
 
-I'm into:
-- Coding
-- Acting
-- Tinkering
-- Writing
-- Minecraft
-- Euro Truck Simulator 2 and Microsoft Flight Simulator
-- YouTube (hardcore)
-- People
+I love to...
+- fix random and old electronics
+- build little things for everyday life
+- working with a team to make robots or rockets
+- watch battlebots and host rocket launch watch parties
 
-After being homeschooled for three years, I moved to the US to attend boarding school. I currently go to Deerfield Academy, and I'm dabbling in all of interests, trying to figure out where life will take me :)
+
+I attended public high school for two years, but decided to apply to private, boarding schools in hopes for a rigourous education. For my junior and senior year I attended Deerfield Academy where I expanded my passion for STEM with high-level courses. Now, as a community college student trying to save money, I am on a mission to obtain a rigourous college education when I transfer as a sophomore. Welcome to my personal curiosity outlet where I articulate my ideas into the form of videos, images, and words! 
