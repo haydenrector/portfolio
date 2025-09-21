@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Music
-description: Piano, Western Vocals, and other music-related projects
+title: 3D Design
+description: designs for robotics, engineering classes, and NASA projects!
 ---
-## Piano
+## Fusion 360, Onshape, and Inventor
 ### Experience
-- Have been learning the piano for 9 years
-- Currently perfecting the Moonlight Sonata (Third Movement) and preparing for the Trinity Grade 8 exam
-- Have attended a workshop conducted by Prof. Simon from Trinity Laban, which gave me numerous insights into expression and performance techniques
+- Have been learning CAD for 5 years
+- Currently helping to design componets for a High Altitude Student Platform (HASP) partnered with NASA
+- Have Autodesk Certification 
 
 ### Performances
 #### Moonlight Sonata by Beethoven
