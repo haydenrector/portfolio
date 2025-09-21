@@ -3,7 +3,7 @@ layout: post
 title: About Me
 description: myself :)
 ---
-High school student trying to get somewhere...
+College student trying to get somewhere...
 
 I'm into:
 - Coding
