@@ -15,7 +15,6 @@ project_entries:
   - title: Robotics
     url: engineering
     desc: Robots I have designed and built  
-    highlight: 2016-Present
   - title: Math Research
     url: matresearch
     desc: Topology, Sheaf Theory and Space
