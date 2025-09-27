@@ -6,15 +6,12 @@ project_entries:
   - title: Coding
     url: coding
     desc: Digital Logic projects 
-    highlight: 2022-Present
   - title: 3D Design
     url: 3ddesign
     desc: Designs I have made for my robotics club, engineering classes, a NASA payload, and for fun!
-    highlight: 2020-present
   - title: Electrical Engineering
     url: electronics
     desc: Electrical Designs and components I made for a payload for NASA
-    highlight: 2025-Present
   - title: Robotics
     url: engineering
     desc: Robots I have designed and built  
@@ -22,7 +19,6 @@ project_entries:
   - title: Math Research
     url: matresearch
     desc: Topology, Sheaf Theory and Space
-    highlight: 2024-Present
     
 footer_entries:
   - title: GitHub
