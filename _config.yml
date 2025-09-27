@@ -1,7 +1,7 @@
-title: welcome to my stemy portfolio!
+title: Welcome to my stemy portfolio!
 author: Hayden Rector
 url: https://web.zohan.tech/portfolio # root address of the site
-description: you are invited to nerd out with me as I describe my cool projects, hobbies, and research!
+description: You are invited to nerd out with me as I describe my cool projects, hobbies, and research!
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -26,7 +26,7 @@ theme_config:
   show_reading_time: false # show number of words and reading time in the blog posts
   # options for "home" page
   home:
-    title_projects: portfolio
+    title_projects: Portfolio
 
 highlighter: rouge
 
