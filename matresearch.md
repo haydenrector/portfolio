@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Math Research
-description: Cool research I am doing with math and the number zero
+title: Topology & Sheaf Theory Research
+description: Researching how sheaf cohomology can predict communication failures and how we can use this to provide insights for future space missions...
 ---
 ## The Idea
 
