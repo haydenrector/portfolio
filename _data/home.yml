@@ -3,7 +3,7 @@ navbar_entries:
     url: aboutMe
 
 project_entries:
-  - title: Coding
+  - title: Electronics
     url: coding
     desc: Digital Logic projects 
   - title: 3D Design
