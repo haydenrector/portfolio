@@ -5,10 +5,10 @@ navbar_entries:
 project_entries:
   - title: Electronics
     url: coding
-    desc: Digital Logic projects 
+    desc: Digital Logic/Electronics projects including a custom made clock and a custom arduino
   - title: 3D Design
     url: 3ddesign
-    desc: Designs I have made for my robotics club, engineering classes, a NASA payload, and for fun!
+    desc: Designs I have made for my robotics club, engineering classes, a NASA payload 
   - title: Electrical Engineering
     url: electronics
     desc: Electrical Designs and components I made for a payload for NASA
