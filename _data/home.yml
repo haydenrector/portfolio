@@ -15,9 +15,9 @@ project_entries:
   - title: Robotics
     url: engineering
     desc: Robots I have designed and built  
-  - title: Math Research
+  - title: Topology & Sheaf Theory Research
     url: matresearch
-    desc: Topology, Sheaf Theory and Space
+    desc: Sheaf Cohomology and Obstructions to Communication 
     
 footer_entries:
   - title: GitHub
