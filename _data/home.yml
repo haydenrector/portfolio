@@ -3,21 +3,21 @@ navbar_entries:
     url: aboutMe
 
 project_entries:
-  - title: Electronics
-    url: coding
-    desc: Digital Logic/Electronics projects including a custom made clock and a custom arduino
-  - title: 3D Design
+  - title: TorT (Torque Tester) project
     url: 3ddesign
-    desc: Designs I have made for my robotics club, engineering classes, a NASA payload 
-  - title: Electrical Engineering
+    desc: Data visualization code for testing the torque of bearings
+  - title: NASA HASP Electrical Engineering
     url: electronics
-    desc: Electrical Designs and components I made for a payload for NASA
+    desc: Schematics for NASA HASP project 
+  - title: Flexible PCB Research
+    url: matresearch
+    desc: Thermal management tool for flexible PCB geometries 
   - title: Robotics
     url: engineering
-    desc: Robots I have designed and built  
-  - title: Topology & Sheaf Theory Research
-    url: matresearch
-    desc: Sheaf Cohomology and Obstructions to Communication 
+    desc: Robots I have helped code and build
+  - title: Tinkering + Misc Projects
+    url: coding
+    desc: Digital Logic projects and 3D designs
     
 footer_entries:
   - title: GitHub
