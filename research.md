@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Physics Research
-description: research ive done with optics 
+title: Topological Based Design Tool for Thermal Management in Flexible PCB Geometries
+
 ---
-##
+## Abstract
+Traditional PCB layouts rely on flat, Euclidean planes, which can limit efficient heat dissipation and require costly, bulky cooling solutions. As modern PCB layouts adopt curved and flexible factors in applications such as satellites and robotic arms, thermal management becomes more challenging due to specific heat-flow dynamics and varying component thickness. Currently, PCB layout design relies on finite-element analysis, numerical simulations, or AI-driven optimization to predict and manage heat flow. While effective for standard planar designs, these methods require detailed models and substantial computational resources, and they often fail to generalize to curved, flexible, and highly customized PCB geometries. Thus, electrical engineers need a framework that models how the geometry and topological structure of the PCB influence thermal behavior under bending or deformation. To create this framework, we developed a geometric thermal compass, a passive experimental probe that displays heat-flow gradients on curved PCB surfaces in real time, revealing topological invariants of trace networks. By integrating small bimetallic elements, the compass models heat-flow patterns visible in real time, providing engineers with insight into thermal behavior and trace interactions on curved planes that computational methods often overlook. Preliminary findings demonstrate that the compass consistently tracks directional heat-flow patterns across varying curvatures and deformations. These highly specific patterns indicate that heat distribution is structured by the surface geometry and trace connectivity, which can be difficult to capture with computational methods. These findings reveal that this framework can become a design-for-manufacturing tool that provides engineers with real-time feedback for curved PCB layouts. Specifically, this tool can optimize thermal performance early in the design process and bridge the gap between prototyping and reliable future production. This approach offers a cost-effective and scalable strategy for thermal management in non-Euclidean electronics, prioritizing reduced error with simulation-heavy methods.
+
+## Poster
