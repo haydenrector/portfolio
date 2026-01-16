@@ -10,7 +10,7 @@ project_entries:
     url: electronics
     desc: Schematics for NASA HASP project 
   - title: Flexible PCB Research
-    url: matresearch
+    url: research
     desc: Thermal management tool for flexible PCB geometries 
   - title: Robotics
     url: robotics
