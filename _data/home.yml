@@ -16,7 +16,7 @@ project_entries:
     url: engineering
     desc: Robots I have helped code and build
   - title: Tinkering + Misc Projects
-    url: coding
+    url: tinkering
     desc: Digital Logic projects and 3D designs
     
 footer_entries:
