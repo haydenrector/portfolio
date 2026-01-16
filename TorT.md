@@ -5,8 +5,7 @@ description: Bearing torque testing machine
 ---
 ## Overview
 
-https://i.imgur.com/K3Auzub.jpeg
-
+<img src="https://i.imgur.com/K3Auzub.jpeg" width="200">
 
 
 ### Software 
