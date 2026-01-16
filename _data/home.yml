@@ -13,7 +13,7 @@ project_entries:
     url: matresearch
     desc: Thermal management tool for flexible PCB geometries 
   - title: Robotics
-    url: engineering
+    url: robotics
     desc: Robots I have helped code and build
   - title: Tinkering + Misc Projects
     url: tinkering
