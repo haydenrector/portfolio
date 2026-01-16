@@ -3,7 +3,7 @@ layout: post
 title: Mini Projects
 description: My projects from digital logic class, engineering classes, 3D Design
 ---
-For years I've been exploring engineering and science with classes, summer camps, and home projects. These are some of my favorites:
+For years I've been exploring engineering and science with classes and home projects. These are some of my favorites:
 
 ## Digital Logic Projects
 ### Clock
