@@ -1,7 +1,7 @@
-title: Welcome to my Stemy Portfolio!
+title: Maker Portfolio
 author: Hayden Rector
 url: https://web.zohan.tech/portfolio # root address of the site
-description: You are invited to nerd out with me as I describe my cool projects, hobbies, and research!
+description: Legos to soldering iron
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -26,7 +26,7 @@ theme_config:
   show_reading_time: false # show number of words and reading time in the blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Projects
 
 highlighter: rouge
 
