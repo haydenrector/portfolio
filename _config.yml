@@ -1,7 +1,7 @@
 title: Maker Portfolio
 author: Hayden Rector
 url: https://web.zohan.tech/portfolio # root address of the site
-description: Legos to soldering iron
+description: From legos to soldering iron
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
