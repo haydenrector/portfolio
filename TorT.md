@@ -7,6 +7,7 @@ description: Bearing torque testing machine
 
 <img src="https://i.imgur.com/K3Auzub.jpeg" width="300">
 
+<img src="https://i.imgur.com/bALTZyT.jpeg" width="300">
 
 ### Software 
 
