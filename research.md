@@ -8,3 +8,5 @@ Traditional PCB layouts rely on flat, Euclidean planes, which can limit efficien
 
 ## Poster
 <img src="https://i.imgur.com/xRv0oSM.png" width="700">
+
+Presented poster at Harvard University's National Collegiate Research Conference (NCRC 2026) and Yale Undergraduate Research Conference (YURC 2026)
